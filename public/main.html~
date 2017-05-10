@@ -13,7 +13,7 @@
         </div>
     </div>
     
-    <script src='lib/jquery/dist/jquery.min.js'></script>
+    <script src='../lib/jquery/dist/jquery.min.js'></script>
     <script src='/home/camilo/Coding/javasript/ada/public/lib/bootstrap/dist/js/bootstrap.min.js'></script>
     <script src='/home/camilo/Coding/javasript/ada/public/lib/angular/angular.min.js'></script>
     <script src='/home/camilo/Coding/javasript/ada/public/src/app.js'></script>
